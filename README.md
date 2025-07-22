@@ -24,6 +24,14 @@ Veja abaixo algumas seções da página desenvolvida:
 ![](6.png)
 ![](7.png)
 
+## 🔧 Tecnologias e Ferramentas Utilizadas
+
+- WordPress
+- Elementor (page builder)
+- Plugins de formulário de contato
+- Hospedagem via domínio próprio
+- Design responsivo (mobile e desktop)
+
 ## 🌐 Página ao vivo
 
 🔗 [Clique aqui para visualizar a landing page publicada](https://asetcargadedicada.com/landing-page/)

@@ -35,4 +35,4 @@ Veja abaixo algumas seções da página desenvolvida:
 Se quiser conversar sobre este ou outros projetos, estou disponível por aqui:
 
 - GitHub: [HelenaPeres](https://github.com/HelenaPeres)  
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/helena-dev) 
+- LinkedIn:(https://linkedin.com/in/helena-dev) 

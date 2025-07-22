@@ -16,8 +16,13 @@ O cliente precisava de uma página única e objetiva para apresentar seus servi�
 ## 🖼️ Prints da Landing Page
 
 Veja abaixo algumas seções da página desenvolvida:
-
-> (Você pode adicionar as imagens com o comando `![](caminho/para/imagem.jpg)` após subir elas para a pasta `screenshots` no repositório)
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+![](7.png)
 
 ## 🌐 Página ao vivo
 
